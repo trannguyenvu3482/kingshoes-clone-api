@@ -1,0 +1,31 @@
+{
+  "sneakers": [
+    {
+      "code": "CW2288 111",
+      "name": "Air Force 1",
+      "brand": "Nike",
+      "isHot": false,
+      "isOnSale": false,
+      "isNew": false,
+      "price": 3300000,
+      "discount": 0,
+      "rating": 4.5,
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ba60cd39-be4e-4a9c-9ee1-e2229e0640d9/air-jordan-1-mid-se-shoe-9LWSDx.png"
+      ],
+      "size": [
+        40,
+        40.5,
+        41,
+        42,
+        42.5,
+        43,
+        44
+      ],
+      "color": "white",
+      "createdAt": 1672725752198,
+      "updatedAt": 1672725752198,
+      "id": 1
+    }
+  ]
+}
