@@ -1,18 +1,19 @@
-# Sneaker Store API
+# Sneakers API
 @baseUrl = http://localhost:3000/api
+@routeName = sneakers
 
 # @name getAllSneakers
-GET {{baseUrl}}/api/sneakers
+GET {{baseUrl}}/api/{{routeName}}
 
 ###
 
 # @name getSneakerById
-GET {{baseUrl}}/api/sneakers?id=1
+GET {{baseUrl}}/api/{{routeName}}?id=1
 
 ###
 
 # @name addNewSneaker
-POST {{baseUrl}}/api/sneakers
+POST {{baseUrl}}/api/{{routeName}}
 Content-Type: application/json
 
 {
