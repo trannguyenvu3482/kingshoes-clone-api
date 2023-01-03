@@ -1,0 +1,15 @@
+.main-page {
+  display: none;
+}
+
+.main-page.show {
+  display: block;
+}
+
+.login-form {
+  display: none;
+}
+
+.login-form.show {
+  display: block;
+}

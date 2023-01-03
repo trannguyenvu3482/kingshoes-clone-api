@@ -26,6 +26,32 @@
       "createdAt": 1672725752198,
       "updatedAt": 1672725752198,
       "id": 1
+    },
+    {
+      "name": "",
+      "brand": "",
+      "price": "1",
+      "isHot": false,
+      "isOnSale": false,
+      "isNew": false,
+      "rating": "1",
+      "color": "1",
+      "createdAt": 1672732972140,
+      "updatedAt": 1672732972140,
+      "id": 2
+    },
+    {
+      "name": "",
+      "brand": "",
+      "price": "",
+      "isHot": false,
+      "isOnSale": false,
+      "isNew": false,
+      "rating": "",
+      "color": "",
+      "createdAt": 1672733031268,
+      "updatedAt": 1672733031268,
+      "id": 3
     }
   ]
 }
